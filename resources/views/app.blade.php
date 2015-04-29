@@ -153,7 +153,7 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav side-nav">
             <li class="active">
-                <a href=""><i class="fa fa-fw fa-dashboard"></i> Customers</a>
+                <a href="{{route('home')}}"><i class="fa fa-fw fa-dashboard"></i> Home</a>
             </li>
             <li>
                 <a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i> Charts</a>
